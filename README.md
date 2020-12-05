@@ -8,6 +8,9 @@
 + Arturo Victorino Vernaza Vargas​
 + Victor Eduardo Torres Tejada​
 
+## Diagrama de Arquitectura SOA
+![](DSD-TF-Diagrama-Arquitectura-SOA.png)
+
 ## Diagrama de despliegue
 ![](2020-12-04-21-01-54.png)
 
